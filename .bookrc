@@ -6,5 +6,6 @@
     "HEAD": "html"
   },
   "name": "The Red Room",
-  "type": "text"
+  "type": "text",
+  "book_id": 554
 }
